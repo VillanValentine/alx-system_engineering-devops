@@ -1,2 +1,1 @@
-#!/bin/bash
-My readme
+echo "Hello,world"
